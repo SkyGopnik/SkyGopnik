@@ -1,6 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hello world 👋</h1>
+<p align="center"><b>Nothing important about me ✨</b></p>
 
-### ⚡ Stats
+## ⚡ Stats
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SkyGopnik&count_private=true&show_icons=true&include_all_commits=true&theme=blueberry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyGopnik&layout=compact&theme=blueberry)
 
