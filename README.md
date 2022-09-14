@@ -1,12 +1,12 @@
 <h1 align="center">Hello world 👋</h1>
 <p align="center"><b>Nothing important about me ✨</b></p>
 
+<!--
 ## ⚡ Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SkyGopnik&count_private=true&show_icons=true&include_all_commits=true&theme=blueberry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyGopnik&layout=compact&theme=blueberry)
 
-<!--
 **SkyGopnik/SkyGopnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
